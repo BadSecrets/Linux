@@ -1,3 +1,5 @@
+sql password change doc: https://dev.mysql.com/doc/refman/5.7/en/resetting-permissions.html
+
 gray log documentation : http://docs.google.com/document/d/1HF9Sgs28Qq3nEMFD6Kokd5fedOOIQI9ZEh38PhVpTZw/edit 
 # Linux SCRIPTS for irsec 
 
