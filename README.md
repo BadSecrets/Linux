@@ -1,7 +1,9 @@
 # Linux SCRIPTS for irsec 
 
 sh basicPingScan.sh : simple script to run a basic ping scan, probably wont be
-					  used. Use nmap instead 
+					  used. Use nmap instead
+
+
 sh findToptalkers.sh : find Ip address of the host with the most number of tcp connections 
 					   after 1000 packets. 
 
