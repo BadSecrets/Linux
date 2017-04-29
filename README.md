@@ -1,3 +1,4 @@
+gray log documentation : http://docs.google.com/document/d/1HF9Sgs28Qq3nEMFD6Kokd5fedOOIQI9ZEh38PhVpTZw/edit 
 # Linux SCRIPTS for irsec 
 
 sh basicPingScan.sh : simple script to run a basic ping scan, probably wont be
